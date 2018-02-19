@@ -52,3 +52,29 @@ a:hover {
 h4 {
   font-style: italic;
 }
+
+.port-group {
+  margin-bottom: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 20px;
+  padding-top: 5px;
+}
+
+.panel {
+  width: 300px;
+  margin: 20px;
+  background-color: #c7d6dd;
+}
+
+.panel h2 {
+  text-align: center;
+}
+
+.port-body {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
