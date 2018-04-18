@@ -17,7 +17,7 @@ No known bugs.
 If there are any issues or questions, please contact me at kayla.renee at gmail dot com or create an issue in GitHub.
 
 ## Technologies Used
-JavaScript
+Standard HTML/CSS/Bootstrap.
 
 ## License
 MIT License
